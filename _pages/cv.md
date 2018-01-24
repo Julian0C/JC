@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
 Worcester Polytechnic Institute (WPI), Worcester, MA, May 2016

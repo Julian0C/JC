@@ -45,8 +45,8 @@ Projects
 
 Awards
 ======
-* **Data Mining/Data Science Competition Top 20%of Participants**, Rang Technologies and KVRA tech   Jun. 2016
+**Data Mining/Data Science Competition Top 20%of Participants**, Rang Technologies and KVRA tech   Jun. 2016
 
 Skills
 ======
-* Python, Matlab, R, C++, Java, MySQL, Hadoop
+Python, Matlab, R, C++, Java, MySQL, Hadoop

@@ -12,12 +12,10 @@ redirect_from:
 Education
 ======
 Worcester Polytechnic Institute (WPI), Worcester, MA, May 2016
-
-**Master of Science in Financial Mathematics, GPA 3.45/4.0**
+* **Master of Science in Financial Mathematics, GPA 3.45/4.0**
 
 University of Indianapolis, Indianapolis, IN, Dec 2013
-
-**Bachelor of Arts in International Business, Minor in Mathematics, GPA 3.658/4.0**
+* **Bachelor of Arts in International Business, Minor in Mathematics, GPA 3.658/4.0**
 
 Work experience
 ======

@@ -15,7 +15,7 @@ url                      : https://julian0c.github.io/JC # the base hostname & p
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Julian0C/JC"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 comments:
@@ -192,7 +192,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true
@@ -305,3 +305,6 @@ compress_html:
     envs: development
 
 theme: jekyll-theme-cayman
+
+search: true
+search_full_content: true

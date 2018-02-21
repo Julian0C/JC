@@ -19,7 +19,10 @@ University of Indianapolis, Indianapolis, IN, Dec. 2013
 
 Work experience
 ======
-* **Data Scientist Intern**, SFL Scientific, MA, Nov. 2016- Recent
+* **Data Scientist**, IceKredit, China, Jan. 2018- Present
+  * Applied machine learning algorithms and big data related technologies to make all-rounded credit evaluation for individuals and SMEs.
+
+* **Data Scientist Intern**, SFL Scientific, MA, Nov. 2016- Oct. 2017
   * Participated in drafting Algorithmic Trading System Architecture and designing back-testing environment.
   * Associated in feature engineering, model selection and model ensembling for NLP projects.
 * **Data Analyst Intern**, Industrial and Commercial Bank of China (ICBC), Ningbo, May 2015-Aug 2015

@@ -53,5 +53,13 @@ In other words, the equity tranche is responsible to cover the losses of the fir
 
 
 The CDO will be securitized as 20 securities (slices) each with $100(thousand) face value. This means that the equity tranche will be securitized as three slices of $100(thousand) each, the mezzanine tranche as 5 slices and the senior tranche as 12 slices. Investors wishing to buy a slice of the CDO will each have to pay $100(thousand). When a bond defaults, the affected investor class (equity, mezzanine or senior) will collectively lose the corresponding face value. (E.g. if a default affects the mezzanine tranche, then each of the five slices of that tranche will lose $20(thousand). In addition, all future interest payments to mezzanine investors will be reduced by 20% of their original annual interest.)
+{% include gallery id="gallery1" class="full"  %}
+{% include gallery id="gallery2" class="full"  %}
+{% include gallery id="gallery3" class="full"  %}
+{% include gallery id="gallery4" class="full"  %}
+{% include gallery id="gallery5" class="full"  %}
+{% include gallery id="gallery6" class="full"  %}
+{% include gallery id="gallery7" class="full"  %}
+
 
 

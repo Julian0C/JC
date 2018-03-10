@@ -1,6 +1,6 @@
 ---
 title: "CDO Design"
-excerpt: "<br/><img src='/images/wpi1.jpg'>"
+
 collection: portfolio
 permalink: /portfolio/portfolio-2
 gallery1:
